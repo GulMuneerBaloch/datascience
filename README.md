@@ -1,2 +1,2 @@
 # datascience
-Creating Repository for Coursera Course The Data Scientist's Toolbox
+Creating Repository for coursera Course The Data Scientist's Toolbox
